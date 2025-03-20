@@ -1,5 +1,5 @@
 # INF2008ML P5 Grp 13 Machine Learning Project
-# Image Classification using Machine Learning Algorithms
+**Image Classification using Machine Learning Algorithms**
 
 ## 📌 Project Overview  
 This project applies classical machine learning techniques to classify handwritten digits from the **MNIST dataset**. Various feature engineering techniques are implemented to improve classification accuracy. The project evaluates different machine learning models based on key performance metrics.
