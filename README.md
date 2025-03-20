@@ -50,7 +50,6 @@ Each model is assessed using the following metrics:
 - The model performance is visualized using confusion matrices and classification reports.
 - Graphs show the distribution of digit classes and the impact of feature engineering techniques.
 
-```
 
 ## 🤝 Contributions  
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
